@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 import requests
-import bz2file as bz2
+import bz2 as bz2
 
 
 
